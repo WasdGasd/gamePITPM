@@ -14,8 +14,8 @@ class Settings:
         self.bullet_width = 3
         self.bullet_height = 15
         self.bullet_color = (255, 255, 0)
-        self.bullets_allowed = 6
-        self.fleet_drop_speed = 10
+        self.bullets_allowed = 25
+        self.fleet_drop_speed = 1
         self.speedup_scale = 1.1
         self.score_scale = 1.5
 
